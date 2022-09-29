@@ -1,6 +1,6 @@
 ---
 title: "q7_Rmarkdown"
-output: html_document
+output: pdf_document
 date: "2022-09-29"
 ---
 
