@@ -294,7 +294,10 @@ rubric={mechanics:1,reasoning:1}
    What do you see? How is it rendered?
 ```
 
-YOUR ANSWER GOES HERE
+**Answer**
+https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_eyrexh/blob/master/q8_Rmarkdown.md
+
+We can edit the cell directly on the GitHub. When I render it, it replace the old `html` file and creat a `md` file.
 
 ```{block, type="alert alert-info"}
 #### Question 10
