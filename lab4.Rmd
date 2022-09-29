@@ -2,9 +2,11 @@
 title: "Lab 4 - Introduction to RStudio and R Markdown. Presentations"
 output:
   html_document:
-    toc: true
-editor_options: 
-  markdown: 
+    toc: yes
+  pdf_document:
+    toc: yes
+editor_options:
+  markdown:
     wrap: 72
 ---
 
@@ -83,10 +85,10 @@ To render the HTML files we are going to create, the first step is to activate G
 
 
 ```
-
 **Answer**
-Not only GitHub can render HTML files. We can use other editors like VS
-Code, JupyterLab to render it and open with WebPage.
+
+https://github.com/eyrexh/521_q1
+
 
 ```{block, type="alert alert-info"}
 #### Question 2
@@ -97,10 +99,10 @@ Create a new code chunk below using the r language engine that runs some R code
 but it should have an output).
 Ensure that you can render/knit the document after you add that chunk.
 ```
-
+**Answer**
  
 ```{r}
-a <- c(1,2,3)
+a <- c("Who","Am","I")
 a
 ```
 
@@ -115,7 +117,12 @@ Don't forget to knit/render the document
 after you make this change to ensure everything is still working.
 ```
 
-YOUR ANSWER GOES HERE
+**Answer**
+
+```{r 24601}
+b <- c("name", "is", 24601)
+```
+
 
 ```{block, type="alert alert-info"}
 #### Question 4
