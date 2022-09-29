@@ -155,7 +155,7 @@ At least one must be different to the ones mentioned above.
 Write in your own words what each code chunk option is doing.
 ```
 
-```{r answer5, comment = '', results = "hide", }
+```{r answer5, comment = '', results = "hide"}
 a_5 <- c("option comment = '' will remove the default text output starting with ##", "option results = hide will hide the text result")
 ```
 
