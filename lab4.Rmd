@@ -1,5 +1,7 @@
 ---
 title: "Lab 4 - Introduction to RStudio and R Markdown. Presentations"
+author: "Xuan (Eyre) Hong"
+date: "September.28, 2022"
 output:
   html_document:
     toc: yes
@@ -102,8 +104,8 @@ Ensure that you can render/knit the document after you add that chunk.
 **Answer**
  
 ```{r}
-a <- c("Who","Am","I")
-a
+a_2 <- c("Who","Am","I")
+a_2
 ```
 
 ```{block, type="alert alert-info"}
@@ -120,7 +122,7 @@ after you make this change to ensure everything is still working.
 **Answer**
 
 ```{r 24601}
-b <- c("name", "is", 24601)
+a_3 <- c("name", "is", 24601)
 ```
 
 
@@ -132,7 +134,10 @@ Create a new code chunk that uses a code chunk option.
 Write out in your own words what the code chunk option is doing.
 ```
 
-YOUR ANSWER GOES HERE
+```{r answer4, highlight = TRUE}
+a_4 <- c("option 'highlight = TRUE' can highlight the code")
+```
+
 
 #### Multiple code chunk options
 
@@ -150,7 +155,10 @@ At least one must be different to the ones mentioned above.
 Write in your own words what each code chunk option is doing.
 ```
 
-YOUR ANSWER GOES HERE
+```{r answer5, comment = '', results = "hide", }
+a_5 <- c("option comment = '' will remove the default text output starting with ##", "option results = hide will hide the text result")
+```
+
 
 ### 1.5. YAML Header and document output options
 
@@ -197,7 +205,11 @@ and edit it so that you include an `author` (yourself) and a `date` (lab due dat
 Include what you added below here as well as a fenced Markdown code block.
 ```
 
-YOUR ANSWER GOES HERE
+---
+author: "Xuan (Eyre) Hong"
+date: "September.28, 2022"
+---
+
 
 ### Creating R Markdown documents
 
