@@ -1,6 +1,6 @@
 ---
 title: "q8_Rmarkdown"
-output: html_document
+output: github_document
 date: "2022-09-29"
 ---
 
