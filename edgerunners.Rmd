@@ -2,7 +2,7 @@
 title: "The way to the Moon"
 subtitle: "⚔<br/>in 2077 Edgerrunners"
 author: "Eyre Hong"
-date: "2022/09/23 (updated: `r Sys.Date()`)"
+date: "2022/09/23"
 output:
   xaringan::moon_reader:
     lib_dir: libs
