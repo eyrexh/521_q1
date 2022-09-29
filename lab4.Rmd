@@ -281,7 +281,6 @@ q8_Rmarkdown: https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_eyrexh/blob/master
 q8_html: https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_eyrexh/blob/master/q8_Rmarkdown.html
 
 
-
 ```{block, type="alert alert-info"}
 #### Question 9 (Optional)
 rubric={mechanics:1,reasoning:1}
