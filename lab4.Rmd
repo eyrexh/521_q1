@@ -248,7 +248,13 @@ to the GitHub repository for this lab
 and paste the two links below this question.
 ```
 
-YOUR ANSWER GOES HERE
+**Answer**
+q7_Rmd: https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_eyrexh/blob/master/q7_Rmarkdown.Rmd
+
+q7_html: https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_eyrexh/blob/master/q7_Rmarkdown.html
+
+q7_pdf: https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_eyrexh/blob/master/q7_Rmarkdown.pdf
+
 
 ```{block, type="alert alert-info"}
 #### Question 8
@@ -267,7 +273,14 @@ rubric={mechanics:6}
    Paste a link to these files as your answer below.
 ```
 
-YOUR ANSWER GOES HERE
+
+**Answer**
+
+q8_Rmarkdown: https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_eyrexh/blob/master/q8_Rmarkdown.Rmd
+
+q8_html: https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_eyrexh/blob/master/q8_Rmarkdown.html
+
+
 
 ```{block, type="alert alert-info"}
 #### Question 9 (Optional)
