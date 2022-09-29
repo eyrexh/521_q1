@@ -324,7 +324,11 @@ rubric={mechanics:6}
 5. Activate GitHub pages and paste the link below.
 ```
 
-YOUR ANSWER GOES HERE
+**Answer**
+
+edgerunners.Rmd: https://github.com/eyrexh/521_q1/blob/master/edgerunners.Rmd
+
+edgerunner.html: https://github.com/eyrexh/521_q1/blob/master/edgerunners.html
 
 ```{block, type="alert alert-info"}
 #### (Challenging) Question 11
@@ -339,4 +343,6 @@ for presentations and reports.
 Include advantages and disadvantages for each.
 ```
 
-YOUR ANSWER GOES HERE
+The reproductible tools like R Markdown and Jupyter can edit on the raw file and render to different formats of files. Every time they render a new file, it will automatically replace the previous same format files. They are easy to produce in different file formats, and good for checking the updated one. However, they are more complicated to use, and require more memory space to save the file. You cannot find the previous render version files, but need to check and undo the editing in the raw file.
+
+The non-reproducible tools like Word and Powerpoint normally will be read in their own format. They cannot render to a lot of different formats. It will export a new file every time you require to save and export the file in a different formats. This can make you easy to track the previous files versions. Also, they are wasy to use and edit it. However, they are basic editing software that does not contain many various features that allow the users to manipulate by themselves.
